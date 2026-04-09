@@ -1,77 +1,71 @@
-<h1 align="center">Hi 👋, I'm Pias Majumdar</h1>
-<h3 align="center">AI & Deep Learning Enthusiast | ML Engineer | Full Stack Developer</h3>
-
+<!-- 🔷 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Deep+Learning+Researcher;NLP+Enthusiast;Full+Stack+Developer&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Pias%20Majumdar&fontSize=40&fontAlignY=35&animation=fadeIn&desc=ML%20Engineer%20%7C%20Web%20Developer&descSize=18&descAlign=80&descAlignY=75" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=piasmajumdar&label=Profile%20views&color=0e75b6&style=flat" alt="piasmajumdar" />
-</p>
+<h1 align="center">Hi 👋, I'm Pias Majumdar</h1>
+<h3 align="center">AI & Deep Learning Engineer | ML Engineer | Full Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
-- 🔬 Currently working on **Multi Modal Emotion Recognition (Text + Image + Audio)**
-- 📚 Built a **Text Summarization model (T5-small)** trained on Inshorts dataset & evaluated on DUC-2004
-- 💻 Strong in **Python, NLP, Computer Vision & Full Stack Development**
-- 🌱 Currently learning **Advanced Deep Learning, Transformers & System Design**
-- ⚡ I enjoy building **real-world AI products + scalable web apps**
+I am passionate about building **AI-powered systems** and solving real-world problems using **Machine Learning, Deep Learning, and Full Stack Development**.  
+I focus on practical implementations, research-driven models, and scalable applications.
 
 ---
 
-## 🧠 Core Expertise
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Model Training, Evaluation & Optimization  
+## 🔭 Current Activities
+- 🚀 Working on **Multi Modal Emotion Recognition (Text + Image + Audio)**
+- 📚 Exploring **Transformers & Large Language Models (LLMs)**
+- 🧠 Improving **Deep Learning architectures & optimization**
+- 💻 Building **real-world AI + Web applications**
+- 🌐 Enhancing skills in **React & system design**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Skills & Tools
 
-### 🔹 Multi Modal Emotion Recognition
-- Combines **text, image, and audio** for emotion detection  
-- Deep learning-based multi-input architecture  
-
-### 🔹 Text Summarization (T5 Model)
-- Fine-tuned **T5-small transformer model**  
-- Dataset: Inshorts | Evaluation: DUC-2004  
-- Focus: abstractive summarization  
-
-### 🔹 Vocabulary Learning App
-- Built with **JavaScript, API, Tailwind, DaisyUI**  
-- Responsive UI + lesson-based learning system  
-
-### 🔹 Image Classifier for Simple Objects
-- Deep learning-based classification system  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,tailwind,mongodb,mysql,tensorflow,pytorch,opencv,git,vscode" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Work
 
-### 👨‍💻 Languages
-Python | JavaScript | Java  
+- 🔹 **Text Summarization (T5 Model)**  
+  Fine-tuned transformer model trained on Inshorts dataset & evaluated on DUC-2004  
 
-### ⚙️ Frameworks & Libraries
-React | Node.js | Tailwind CSS | TensorFlow | PyTorch | Scikit-learn  
+- 🔹 **Multi Modal Emotion Recognition**  
+  Deep learning system combining text, image & audio  
 
-### 🧠 AI/ML Tools
-OpenCV | Pandas | NumPy | Seaborn  
+- 🔹 **Vocabulary Learning App**  
+  JavaScript + API + Tailwind + DaisyUI  
 
-### 🗄️ Databases
-MongoDB | MySQL  
+- 🔹 **Image Classifier for Simple Objects**  
+  Deep learning-based classification  
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://twitter.com/piasmajumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piasmajumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://kaggle.com/piasmajumdar56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://fb.com/pias.majumdar.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/piasmajumdar" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://twitter.com/piasmajumdar" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://kaggle.com/piasmajumdar56" target="blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40"/></a>
+<a href="https://fb.com/pias.majumdar.56" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piasmajumdar&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piasmajumdar&theme=radical" />
 </p>
 
 ---
@@ -81,12 +75,5 @@ MongoDB | MySQL
 
 ---
 
-## 🧠 Currently Learning
-- Transformers & Large Language Models (LLMs)  
-- Advanced Deep Learning Architectures  
-- Real-world AI Deployment  
-
----
-
 ## ⚡ Fun Fact
-I focus on building **AI systems that solve real-world problems**, not just models.
+I build **AI systems with real-world impact**, not just academic models.
