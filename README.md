@@ -30,21 +30,6 @@ I am a Full-Stack AI Engineer specializing in the MERN stack, with a deep passio
 
 ---
 
-## 📌 Featured Work
-
-- 🔹 **Text Summarization (T5 Model)**  
-  Fine-tuned transformer model trained on Inshorts dataset & evaluated on DUC-2004  
-
-- 🔹 **Multi Modal Emotion Recognition**  
-  Deep learning system combining text, image & audio  
-
-- 🔹 **Vocabulary Learning App**  
-  JavaScript + API + Tailwind + DaisyUI  
-
-- 🔹 **Image Classifier for Simple Objects**  
-  Deep learning-based classification  
-
----
 
 ## 🌐 Connect with Me
 
