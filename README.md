@@ -60,13 +60,12 @@ I am a Full-Stack AI Engineer specializing in the MERN stack, with a deep passio
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piasmajumdar&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piasmajumdar&theme=radical&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piasmajumdar&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piasmajumdar&theme=radical&v=1" alt="GitHub Profile Summary" />
 </p>
-
 ---
 
 ## 📫 Contact
