@@ -13,15 +13,6 @@ I am a Full-Stack AI Engineer specializing in the MERN stack, with a deep passio
 
 ---
 
-## 🔭 Current Activities
-- 🚀 Working on **Multi Modal Emotion Recognition (Text + Image + Audio)**
-- 📚 Exploring **Transformers & Large Language Models (LLMs)**
-- 🧠 Improving **Deep Learning architectures & optimization**
-- 💻 Building **real-world AI + Web applications**
-- 🌐 Enhancing skills in **React & system design**
-
----
-
 ## 🛠️ Skills & Tools
 
 <p align="center">
