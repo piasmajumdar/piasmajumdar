@@ -8,9 +8,8 @@
 
 ---
 
-## 🚀 About Me
-I am passionate about building **AI-powered systems** and solving real-world problems using **Machine Learning, Deep Learning, and Full Stack Development**.  
-I focus on practical implementations, research-driven models, and scalable applications.
+## About Me
+I am a Full-Stack AI Engineer specializing in the MERN stack, with a deep passion for building scalable web applications powered by Machine Learning and Deep Learning. I focus on the practical implementation of Computer Vision and NLP models, engineering complete products from clean database architecture to responsive frontends and intelligent backends.
 
 ---
 
