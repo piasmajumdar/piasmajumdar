@@ -15,8 +15,10 @@ I am a Full-Stack AI Engineer specializing in the MERN stack, with a deep passio
 
 ## 🛠️ Skills & Tools
 
+## 🛠️ Skills & Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,tailwind,mongodb,mysql,tensorflow,pytorch,opencv,git,vscode" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,react,nextjs,nodejs,tailwind,mongodb,mysql,tensorflow,pytorch,opencv,sklearn,git,github,vscode" />
 </p>
 
 ---
